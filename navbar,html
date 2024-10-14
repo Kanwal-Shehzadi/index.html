@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+    <head> </head>
+
+ <body>
+    <h1>Navbar</h1>
+    
+    <ul>
+       <li>home</li>
+       <li>about us</li>
+       <li>contact us</li>
+    </ul>
+
+    <a 
+    href="https://wiot-group.com/tomorrow/en/" 
+    target="_blank"
+    >My Gitub
+    </a>
+
+    <a href="Contactus.html">Go to Contact Us Page</a>
+    
+    <img 
+        src="https://wallpaperaccess.com/full/314232.jpg"
+        alt="rose-flower-flowers-red-rose"
+        width="200"
+        height="300"
+    /> 
+
+    <img 
+        src="F:\SE\pexels-pixabay-53141.jpg"
+        alt="flower"
+        width="200"
+        height="300"
+    /> 
+
+    
+
+
+
+ </body>
+</html>
